@@ -179,10 +179,10 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Industrial Automation Systems",
+          "title4": "Defense Integration Systems",
           "subtitle4": "",
-          "caption4": "strategic alliance with SIEMENS Ltd. for more than a decade and operates as an &nbsp; “Authorized System Integrator of Siemens\"&nbsp;<br>focusing on business related to automation in engineering and process industries, reconditioning and retrofitting of all kind of PLC/DCS based Plant and Process Automation control system. PLC based Intelligent Motor control centers using SIMOCODE-Pro. AC and DC Drive Panels. Conversion of OLD (S5) PLC system.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"http://www.techsysautomationpltd.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "caption4": "strategic alliance with SIEMENS Ltd. for more than a decade and operates as an &nbsp; “Authorized System Integrator of Defense & Aerospace Systems\"&nbsp;<br> ACL Committed to Quality in all its Products, Services & Involvements. We will strive to Achieve it by Focusing on people, Process, Tools, Technology, Approach & Methodology and on continuous improvements in Effectiveness, Maturity, Capability and Culture.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://apollocomputing.com/Satellite%20Navigation%20-%20IRNSS%20products%20&%20Services.php\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
